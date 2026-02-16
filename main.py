@@ -18,4 +18,4 @@ from sys import int_info
 
 if __name__ == '__main__':
     name=input("Podaj swoje imię ")
-    print("hello",name, "welcme to the underground")
+    print("hello",name, "welcome to the underground")
