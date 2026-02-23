@@ -29,3 +29,5 @@ print(numbers)
 print(id(lista.append(323)))
 print(id(numbers))
 
+porownanie=lista==numbers
+print(porownanie)
