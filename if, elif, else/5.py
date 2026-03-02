@@ -1,3 +1,4 @@
+wiek = None
 try:
     wiek=int(input("Podaj swój wiek: "))
 except:
