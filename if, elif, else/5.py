@@ -1,5 +1,3 @@
-from os import access
-
 try:
     wiek=int(input("Podaj swój wiek: "))
 except:
